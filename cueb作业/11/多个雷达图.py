@@ -11,7 +11,7 @@ df = pd.DataFrame({
 
 sizes = [43.8, 18.8, 31.2, 6.2]
 labels = ['D', 'B', 'C', 'A']
-colors = ['b', 'm', 'r', 'g']
+colors = ['b', 'm', 'y', 'g']
 data_box = np.random.randn(100)
 data_hist = np.random.randint(0, 130, 50)
 
